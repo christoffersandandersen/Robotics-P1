@@ -1,0 +1,6 @@
+devel_space: /home/csa/ws/test/devel
+install: false
+install_space: /home/csa/ws/test/install
+profile: default
+source_space: /home/csa/ws/test/src
+workspace: /home/csa/ws/test

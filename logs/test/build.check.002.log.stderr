@@ -1,0 +1,12 @@
+[31m[1mCMake Error[0m at /home/csa/ws/test/src/test/CMakeLists.txt:124 (add_executable):
+  Cannot find source file:
+
+    src/test.cpp
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .m .M .mm .h .hh .h++ .hm .hpp
+  .hxx .in .txx
+
+
+CMake Error: CMake can not determine linker language for target: test_node
+CMake Error: Cannot determine link language for target "test_node".
+make: *** [cmake_check_build_system] Error 1
